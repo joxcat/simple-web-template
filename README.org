@@ -1,0 +1,15 @@
+* simple-web-template
+** Requirements
+- ~node~
+- ~yarn~
+
+** Run with
+- *build*: ~yarn run build~
+- *serve*: ~yarn run serve~
+- *check code style*: ~yarn run lint-check~
+- *fix code style*: ~yarn run lint-fix~
+- *cleanup*: ~yarn run clean~
+
+** Preconfigured for
+- [[https://asdf-vm.com/][ASDF]]
+- [[https://code.visualstudio.com/][VSCode]]
